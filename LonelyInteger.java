@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class LonelyInteger {
     
     public static int lonelyInteger(int[] a) {
